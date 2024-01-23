@@ -16,6 +16,7 @@ public class MyntraTest {
 		    cd.get("https://www.myntra.com/");
 		    String title = cd.getTitle();
 		    System.out.println(title);
+		    System.out.println(title);
 		    
 	}
 
